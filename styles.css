@@ -1,0 +1,155 @@
+@media screen and (min-width: 1024px) {
+    .gfg-div {
+      background-color: #63c971;
+      color: #fff;
+    }
+  }
+  #navbar{
+    height: 100%;
+    width: 220px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: lightblue;
+    overflow-x: hidden;
+    padding-top: 20px;
+    padding-left: 2px;
+    margin-left: px;
+    background-image: url("https://wallpaperaccess.com/full/1737971.jpg");
+    color: green;
+    font-size: 35px;
+    text-shadow: 2px 2px 6px white;
+  }
+  #navbar header{
+    margin-top: 30px;
+    margin-bottom: 90px;
+    letter-spacing: 2;
+    margin-left: 7px;
+  }
+  main {
+    margin-left: 200px;
+    background-color: #e4fcc0;
+    width: 90%;
+    height: auto;
+    font-family: 'Abel', sans-serif;
+  font-family: 'Cormorant Garamond', serif;
+  margin-bottom: -10
+  ;
+  
+  }
+  .nav-link{
+    margin-top: 35px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-family: 'Abel', sans-serif;
+    font-family: 'Cormorant Garamond', serif;
+    text-shadow: 2px 2px 111px green; 
+    letter-spacing: 1.5;
+    text-decoration: none;
+    color: black;
+    margin-left: 6px;
+    display: flex;
+  }
+  @media screen and (max-height: 450px) {
+    #navbar {padding-top: 15px;}
+    .#navbar a {font-size: 18px;}
+  }
+  .main-title{
+    text-align: center;
+    JUSTIFY-CONTENT: CENTER;
+    align-items: center;
+    display: flex;
+    background-image: url("https://www.homechoicehomecare.com/wp-content/uploads/2022/06/SeniorsDiet.jpg");
+    background-color: #cccccc;
+    background-position: center;
+    background-size: cover; 
+  height: 60%;
+  width: 100%;
+  margin-bottom: 100px;
+  margin-top:-10px;
+  
+  
+  }
+  #title1{
+    color: orange;
+    letter-spacing: 3;
+    font-size: 80px;
+    font-weight: 900;
+    text-shadow: 2px 3px 3px black;
+  }
+  #subtitle{
+    font-size: 40px;
+    letter-spacing: 2;
+    color: orange;
+    text-shadow: 1px 1px 1px black;
+    padding-bottom: 10px;
+    margin-left: 40px;
+    margin-bottom: -5px;
+    font-variant: small-caps;
+  }
+  p{
+    font-size: 20px; 
+    letter-spacing: .3;
+    margin-left: 40px;
+    margin-right: 30px;
+    
+  }
+  code{
+    color: black;
+    font-size: 24px;
+      font-family: 'Abel', sans-serif;
+  font-family: 'Cormorant Garamond', serif;
+  letter-spacing: 0;
+  line-height: 10px;
+  }
+  #subtitle2{
+     font-size: 50px;
+    letter-spacing: 2;
+    color: green;
+    text-shadow: 2px 2px 5px white;
+    padding-bottom: 30px;
+    text-align: center;
+    padding-top: 50px;
+  }
+  li{
+   font-size: 20px; 
+    letter-spacing: .3;
+    ;
+    text-shadow: 1px 1px 20px black
+  }
+  ul li {
+    list-style-type: none;
+  }
+  ul{
+    padding-top: 70px;
+    padding-bottom: 50px;
+  }
+  ol li {
+    margin-left: 35px;
+    text-shadow: none;
+    
+  }
+  h3{
+    margin-top: -10px;
+    
+  }
+  h4{
+    margin-bottom: -5px;
+  }
+  footer{
+    justify-content: center;
+    text-align: center;
+    
+    font-size: 12px;
+    background-color: #e4fcc0;
+    height: auto;
+  }
+  #author{
+    font-size: 12px;
+  }
+  html{
+    background-color: #e4fcc0
+  }
+  
+   
